@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-03 02:08:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-01-03 01:54:39 +0000"
@@ -152,6 +158,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-01-03 01:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-03 02:09:49 +0000"
     },
     "done": true
   },
@@ -447,7 +459,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-03 01:52:24 +0000",
       "minecraft:spider": "2025-01-03 01:54:07 +0000",
-      "minecraft:zombie": "2025-01-03 01:52:16 +0000"
+      "minecraft:zombie": "2025-01-03 01:52:16 +0000",
+      "minecraft:drowned": "2025-01-03 02:12:37 +0000"
     },
     "done": false
   },
@@ -493,6 +506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-03 02:08:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-01-03 01:49:32 +0000"
@@ -508,6 +527,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-03 01:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-03 02:08:55 +0000"
     },
     "done": true
   },
@@ -551,7 +576,8 @@
     "criteria": {
       "minecraft:beach": "2025-01-03 02:01:08 +0000",
       "minecraft:stony_shore": "2025-01-03 01:50:36 +0000",
-      "minecraft:forest": "2025-01-03 01:48:25 +0000"
+      "minecraft:forest": "2025-01-03 01:48:25 +0000",
+      "minecraft:plains": "2025-01-03 02:07:52 +0000"
     },
     "done": false
   },
