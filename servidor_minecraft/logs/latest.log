@@ -156,3 +156,6 @@
 [02:22:51] [Server thread/INFO]: [Not Secure] <Ikuuya> zzz
 [02:24:29] [Server thread/INFO]: Ikuuya lost connection: Disconnected
 [02:24:29] [Server thread/INFO]: Ikuuya left the game
+[02:39:26] [Server thread/INFO]: Villager byb['Villager'/20989, l='ServerLevel[world]', x=575.70, y=65.00, z=-2583.30] died, message: 'Villager was slain by Adoniiz'
+[02:40:36] [Server thread/INFO]: Adoniiz lost connection: Disconnected
+[02:40:36] [Server thread/INFO]: Adoniiz left the game
